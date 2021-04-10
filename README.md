@@ -1,4 +1,5 @@
 # Pymaceuticals
+![Pills against pink background](https://github.com/ruthhinkle/matplotlib-challenge/blob/main/Images/pills.jpg)
 
 ## Description
 This project examines various drug regimens and their efficacy at reducing tumor size in test mice. The dataset includes measurements at timepoints over the course of 45 days. In particular, it is asking how the drug Capomulin compares to the other possible treatments. 
