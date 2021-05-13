@@ -22,8 +22,14 @@ If you look at the linear regression model at the bottom of this report, you can
 
 ![Weight, Tumor Volume Relationship](https://github.com/ruthhinkle/drug-regimen-efficacy/blob/main/Images/weight-tumorvol-relationship.PNG)
 
-## Repository Contents
+## Installation
+Follow the links to install the following libraries:
+* [matplotlib](https://matplotlib.org/stable/users/installing.html)
+* [NumPy](https://numpy.org/install/)
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+* [SciPy](https://www.scipy.org/install.html)
 
+## Repository Contents
 * Checkpoints for Jupyter Notebook
 * Images - referenced by readme.md
 * Resources - Mouse_metadata.csv, Study_results.csv
