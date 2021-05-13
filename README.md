@@ -1,4 +1,4 @@
-# Pymaceuticals
+# Drug Regimen Efficacy
 ![Pills against pink background](https://github.com/ruthhinkle/matplotlib-challenge/blob/main/Images/pills.jpg)
 
 ## Description
@@ -14,13 +14,18 @@ Of the drug regimens attempted, Capomulin and Ramicane were the most likely to s
 
 As you can see in bar charts of the number of measurements for each drug regimen, Capomulin has the most measurements. Considering that Capomulin was one of the more effective drugs, this makes sense. It's possible to extrapolate the conclusion that less effective drug regimens resulted in the earlier deaths of the corresponding mice. 
 
+![Bar Chart: Regimen Measurements](https://github.com/ruthhinkle/drug-regimen-efficacy/blob/main/Images/measurement-of-regimens.PNG)
+
 **Size of Tumor and Mouse Weight Are Correlated**
 
-If you look at the linear regression model at the bottom of this report, you can see that, for the most part, tumor size increased along with the size of the mouse. 
+If you look at the linear regression model at the bottom of this report, you can see that, for the most part, tumor size increased along with the size of the mouse.
+
+![Weight, Tumor Volume Relationship](https://github.com/ruthhinkle/drug-regimen-efficacy/blob/main/Images/weight-tumorvol-relationship.PNG)
 
 ## Repository Contents
 
 * Checkpoints for Jupyter Notebook
+* Images - referenced by readme.md
 * Resources - Mouse_metadata.csv, Study_results.csv
 * Jupyter Notebook Code - pymaceuticals_REH.ipynb
 * Readme file
