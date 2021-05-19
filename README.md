@@ -8,7 +8,7 @@ This project examines various drug regimens and their efficacy at reducing tumor
 
 **Drug Regimen Efficacy**
 
-Of the drug regimens attempted, Capomulin and Ramicane were the most likely to succeed in reducing tumor size. You can see this bear out in the "Quartiles, Outliers and Boxplots" section of this report. Ramican and Capomulin have much smaller tumor volumes at the final timepoint compared to Infubinol and Naftisol. 
+Of the drug regimens attempted, Capomulin and Ramicane were the most likely to succeed in reducing tumor size. You can see this bear out in the "Quartiles, Outliers and Boxplots" section of the notebook. Ramican and Capomulin have much smaller tumor volumes at the final timepoint compared to Infubinol and Naftisol. 
 
 **Largest Dataset: Capomulin**
 
@@ -20,7 +20,7 @@ As you can see in bar charts of the number of measurements for each drug regimen
 
 If you look at the linear regression model at the bottom of this report, you can see that, for the most part, tumor size increased along with the size of the mouse.
 
-![Weight, Tumor Volume Relationship](https://github.com/ruthhinkle/drug-regimen-efficacy/blob/main/Images/weight-tumorvol-relationship.PNG)
+![Weight, Tumor Volume Relationship](https://github.com/ruthhinkle/drug-regimen-efficacy/blob/main/Images/regiment-measurements.PNG)
 
 ## Installation
 Follow the links to install the following libraries:
